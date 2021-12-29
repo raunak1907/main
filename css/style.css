@@ -1,0 +1,130 @@
+h1{margin: 0;
+  font-size: 90px;
+
+    font-family: 'Sacramento',cursive;
+    color:  #66BFBF;
+
+    font-weight: normal;
+    line height: 2;
+
+}
+first-container{
+
+}
+body{
+  text-align: center;
+
+  font-family:'merriweather',serif;
+}
+
+h2{
+  font-family: 'montserrat',sans-serif;
+  color:  #66BFBF;
+      font-weight: normal;
+}
+h3{
+  color: #11999E;
+      font-weight: normal;
+}
+hr{
+  border: dotted #D6E5FA  6PX;
+  border-bottom: none;
+  width: 5%;
+
+}
+.bottom-container{
+  background-color:
+}
+.contact-me{
+  padding: 20px auto;
+}
+.footer-link{
+  color:  #11999E;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #210d21;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: -o-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: linear-gradient(to bottom, #11cdd4, #2bc4ad);
+  text-decoration: none;
+}
+.first-container {
+  text-align: center;
+
+
+
+}
+.Skills{
+  width:10%;
+  margin:auto;
+  padding-top: 50px;
+
+
+
+}
+.myskills{
+  margin: auto 350PX 10px auto;
+  align-content: center;
+
+}
+.student-img{
+  width: 25%;
+  float: left;
+  margin-bottom: 100px;
+}
+.chillies{
+  width: 10%;
+
+
+}
+
+
+.contact-me{
+margin: auto;
+
+}
+.profile{
+width: 50%;
+margin:100px auto 100px auto;
+padding-bottom: 35px;
+
+}
+
+.first-cloud{
+  position:relative;
+  LEFT:200PX;
+}
+.second-cloud{
+  position:absolute;
+
+}
+.bottom-container{
+  margin-top: 20px;
+  background-color: #95D1CC;
+}
+
+.skill-row{
+  margin: 0;
+  background-color: ;
+
+
+}
